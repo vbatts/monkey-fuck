@@ -1,6 +1,6 @@
 # Monkey::Fuck
 
-TODO: Write a gem description
+purely to have fun with ruby mokey patching
 
 ## Installation
 
@@ -18,12 +18,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+ $ irb
+ > require 'monkey-fuck'
+ > 5
+ => 8=====D 
+ > 5.3
+ => 8=====D~~~
+ > "foo"
+ => dong
+ > "foo"
+ wang
 
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Added some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request

@@ -18,7 +18,7 @@ end
 
 class Float
   def to_s(num = 10)
-    "8" + ("=" * self.to_i) + "D" + ("~" * ((self % 1) * 10))
+    "8" + ("=" * self.to_i) + "D" + ("~" * ((self % 1) * 10).round)
   end
 end
 
