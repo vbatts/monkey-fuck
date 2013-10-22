@@ -1,6 +1,6 @@
 # Monkey::Fuck
 
-purely to have fun with ruby mokey patching
+purely to have fun with ruby monkey patching
 
 ## Installation
 
@@ -27,5 +27,5 @@ Or install it yourself as:
  > "foo"
  => dong
  > "foo"
- wang
+ => wang
 

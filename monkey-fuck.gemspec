@@ -4,8 +4,8 @@ require File.expand_path('../lib/monkey-fuck/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["Vincent Batts"]
   gem.email         = ["vbatts@redhat.com"]
-  gem.description   = %q{purely to have fun with ruby mokey patching}
-  gem.summary       = %q{purely to have fun with ruby mokey patching}
+  gem.description   = %q{purely to have fun with ruby monkey patching}
+  gem.summary       = %q{purely to have fun with ruby monkey patching}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
