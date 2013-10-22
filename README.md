@@ -18,14 +18,18 @@ Or install it yourself as:
 
 ## Usage
 
- $ irb
- > require 'monkey-fuck'
- > 5
- => 8=====D 
- > 5.3
- => 8=====D~~~
- > "foo"
- => dong
- > "foo"
- => wang
+	require 'monkey-fuck'
+
+	5
+	# => 8=====D 
+
+	5.3
+	# => 8=====D~~~
+
+	"foo"
+	# => dong
+
+	"foo"
+	# => wang
+
 
