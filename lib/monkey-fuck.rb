@@ -14,6 +14,15 @@ class Fixnum
   def to_s(num = 10)
     "8" + ("=" * self) + "D"
   end
+
+  def +(num)
+    puts 'fart'
+    self - num
+  end
+
+  def -(num)
+    puts 'fart again'
+    self + num
 end
 
 class Float
